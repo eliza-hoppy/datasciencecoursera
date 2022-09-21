@@ -1,7 +1,0 @@
----
-title: "HelloWorld"
-author: "Temilola Famakinwa"
-date: "2022-09-20"
-output: html_document
----
-## This is a markdown file
